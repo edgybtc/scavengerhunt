@@ -1,0 +1,10 @@
+Copyright (c) 2014 - ∞, Siteavians
+All rights not reserved.
+
+This license is a legal agreement between you and Siteav for the use
+of treasure hunt Software (the "Software").  By obtaining the Software you
+agree to comply with the terms and conditions of this license.
+
+PERMITTED USE
+You are permitted to use, copy, modify, and distribute the Software and its
+documentation, with or without modification, for any purpose.
